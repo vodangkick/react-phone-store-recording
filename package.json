@@ -2,7 +2,7 @@
   "name": "shop-course",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vodangkick.github.io/react-phone-store-recording/.",
+  "homepage": "https://vodangkick.github.io/react-phone-store-recording",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
