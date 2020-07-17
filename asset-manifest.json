@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-phone-store-recording/static/css/main.4b1bf43c.chunk.css",
+    "main.js": "/react-phone-store-recording/static/js/main.e4bd357d.chunk.js",
+    "main.js.map": "/react-phone-store-recording/static/js/main.e4bd357d.chunk.js.map",
+    "runtime-main.js": "/react-phone-store-recording/static/js/runtime-main.e9c74b72.js",
+    "runtime-main.js.map": "/react-phone-store-recording/static/js/runtime-main.e9c74b72.js.map",
+    "static/js/2.0eb9d11f.chunk.js": "/react-phone-store-recording/static/js/2.0eb9d11f.chunk.js",
+    "static/js/2.0eb9d11f.chunk.js.map": "/react-phone-store-recording/static/js/2.0eb9d11f.chunk.js.map",
+    "index.html": "/react-phone-store-recording/index.html",
+    "precache-manifest.fd89550a74537d4f3fd9f208fb3845cd.js": "/react-phone-store-recording/precache-manifest.fd89550a74537d4f3fd9f208fb3845cd.js",
+    "service-worker.js": "/react-phone-store-recording/service-worker.js",
+    "static/css/main.4b1bf43c.chunk.css.map": "/react-phone-store-recording/static/css/main.4b1bf43c.chunk.css.map",
+    "static/js/2.0eb9d11f.chunk.js.LICENSE.txt": "/react-phone-store-recording/static/js/2.0eb9d11f.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/react-phone-store-recording/static/media/fa-solid-900.f3a7d3b5.woff",
+    "static/media/logo.svg": "/react-phone-store-recording/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9c74b72.js",
+    "static/js/2.0eb9d11f.chunk.js",
+    "static/css/main.4b1bf43c.chunk.css",
+    "static/js/main.e4bd357d.chunk.js"
+  ]
+}
